@@ -1,0 +1,8 @@
+{
+  "autoload": {
+    "classmap": [
+      "router.php", "app/models", "app/controllers"
+    ],
+    "files": ["functions.php"]
+  }
+}
